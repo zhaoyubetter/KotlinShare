@@ -37,6 +37,7 @@ usemathjax: yes
 * [JVM类加载机制详解（一）JVM类加载过程](http://blog.csdn.net/zhangliangzi/article/details/51319033)
 * [JVM类加载机制详解（二）类加载器与双亲委派模型](http://blog.csdn.net/zhangliangzi/article/details/51338291)
 * [Java反射机制应用实践](https://www.ziwenxie.site/2017/03/22/java-reflection/)
+* [Java反射札记](https://mp.weixin.qq.com/s/VG7kMtH9ECZQDDC5oxK83A)
 
 
 
